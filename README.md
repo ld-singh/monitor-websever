@@ -6,11 +6,11 @@ The monitor_webserver.py monitors demo Webserver created by https://github.com/l
 ## Usage
 
 You can test this in two ways:
-# 1. Using make
+### 1. Using make
      You can run below command to run this. This will also install dependencies
      
      make monitor
-# 2. Running python file directory
+### 2. Running python file directory
 
      First Install dependencies as follows:
      
